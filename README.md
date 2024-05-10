@@ -2,7 +2,7 @@
 
 Desarrollador web, con conocimientos solidos en tecnologías claves como HTML5, CSS y JavaScript, así como el manejo de versiones con GitHub, poseo habilidades en frameworks modernos como Angular para el desarrollo de interfaces dinámicas y escalables y además conocimientos en aplicaciones del lado del servidor utilizando Node.js y Express junto a bases de datos NoSQL como MongoDB y para despliegue en la nube haciendo uso de servicios AWS.
 
-## Technologies 
+## Technologies ##
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
@@ -15,3 +15,4 @@ Desarrollador web, con conocimientos solidos en tecnologías claves como HTML5, 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<div align="center"><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></div>
