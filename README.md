@@ -3,14 +3,6 @@
 Desarrollador web, con conocimientos solidos en tecnologías claves como HTML5, CSS y JavaScript, así como el manejo de versiones con GitHub, poseo habilidades en frameworks modernos como Angular para el desarrollo de interfaces dinámicas y escalables y además conocimientos en aplicaciones del lado del servidor utilizando Node.js y Express junto a bases de datos NoSQL como MongoDB y para despliegue en la nube haciendo uso de servicios AWS.
 
 ## Technologies 
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
-
-
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
