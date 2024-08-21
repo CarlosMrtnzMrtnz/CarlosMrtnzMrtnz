@@ -15,4 +15,5 @@ Desarrollador web, con conocimientos solidos en tecnologías claves como HTML5, 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="15%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyz81aDpMm9JpNTcARITR7XrtlLTSKrHGRA&s"></code>
 <div align="center"><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></div>
